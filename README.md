@@ -80,7 +80,7 @@ Você também pode abrir uma *issue* para reportar bugs ou sugerir novas funcion
 
 ## Licença
 
-Distribuído sob a Licença [Nome da Licença - Ex: MIT, Apache 2.0]. Veja `LICENSE.txt` (quando adicionado) para mais informações. (Por enquanto, pode deixar como "Licença A DEFINIR").
+
 
 ## Contato
 
